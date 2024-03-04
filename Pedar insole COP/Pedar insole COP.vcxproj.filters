@@ -18,5 +18,13 @@
     <ClCompile Include="Pedar insole COP.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="COP.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="COP.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

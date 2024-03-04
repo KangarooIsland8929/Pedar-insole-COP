@@ -151,7 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="COP.cpp" />
     <ClCompile Include="Pedar insole COP.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="COP.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
